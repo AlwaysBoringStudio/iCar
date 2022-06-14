@@ -14,7 +14,7 @@ function face_following_mode () {
         if (xcenter >= 80 && xcenter <= 240) {
             MoveForward()
         }
-        if (xcenter > 80) {
+        if (xcenter > 240) {
             Turn_right()
         }
     } else {
