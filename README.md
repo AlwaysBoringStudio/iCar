@@ -1,5 +1,5 @@
 
-> 在 [https://alwaysboringstudio.github.io/iCar/](https://alwaysboringstudio.github.io/iCar/) 打開此頁面
+> 在 [https://alwaysboringstudio.site/iCar/](https://alwaysboringstudio.github.io/iCar/) 打開此頁面
 
 ## 作為擴充功能使用
 
